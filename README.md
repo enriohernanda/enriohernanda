@@ -2,18 +2,18 @@
 
 I'm **Enrio**, a Web Developer based in Indonesia.
 
-I mostly work on frontend development using **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, **Bootstrap**, and sometimes add a bit of motion with **Framer Motion**.  
+I mostly work using **React**, **Next.js**, **Laravel**, **TypeScript**, **JavaScript**, **PHP**, **Tailwind CSS**, **Bootstrap**, and sometimes add a bit of motion with **Framer Motion**.  
 I also use **Figma** for UI/UX design.
 
 This is a fresh profile where I'll be uploading small projects, experiments, and things I'm currently working on.
 
 ---
 
-## Tools & Tech
+## 🔧 Tools & Tech
 
 ### Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,react,nextjs,laravel" />
 </p>
 
 ### Styling & UI
@@ -28,9 +28,10 @@ This is a fresh profile where I'll be uploading small projects, experiments, and
 
 ---
 
-## A Bit About Me
+## 🌿 A Bit About Me
 
 - I enjoy building clean, modern, and responsive interfaces.  
 - I'm always learning new frontend technologies and improving my UI/UX skills.  
-- I love experimenting with animations and user-friendly designs.  
+- I love experimenting with animations, micro-interactions, and user-friendly designs.  
+- Currently focusing on growing my portfolio with real-world projects and experiments.
 
