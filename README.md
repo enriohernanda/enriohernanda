@@ -9,7 +9,7 @@ This is a fresh profile where I'll be uploading small projects, experiments, and
 
 ---
 
-## 🔧 Tools & Tech
+## Tools & Tech
 
 ### Languages & Frameworks
 <p>
@@ -28,10 +28,9 @@ This is a fresh profile where I'll be uploading small projects, experiments, and
 
 ---
 
-## 🌿 A Bit About Me
+## A Bit About Me
 
 - I enjoy building clean, modern, and responsive interfaces.  
 - I'm always learning new frontend technologies and improving my UI/UX skills.  
-- I love experimenting with animations, micro-interactions, and user-friendly designs.  
-- Currently focusing on growing my portfolio with real-world projects and experiments.
+- I love experimenting with animations and user-friendly designs.  
 
