@@ -2,11 +2,6 @@
 
 I'm **Enrio**, a Web Developer based in Indonesia.
 
-I mostly work using **React**, **Next.js**, **Laravel**, **TypeScript**, **JavaScript**, **PHP**, **Tailwind CSS**, **Bootstrap**, and sometimes add a bit of motion with **Framer Motion**.  
-I also use **Figma** for UI/UX design.
-
-This is a fresh profile where I'll be uploading small projects, experiments, and things I'm currently working on.
-
 ---
 
 ## Tools & Tech
